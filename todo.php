@@ -16,10 +16,10 @@
     </head>
 
     <?php
-$servername = "localhost";
-$username = "jaxcode249";
-$password = "q1w2e3r4t5";
-$dbname = "jaxcode249";
+$servername = "servername";
+$username = "username";
+$password = "password";
+$dbname = "database";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
